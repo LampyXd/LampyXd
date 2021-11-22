@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LampyXd/LampyXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 I am currently working on a free hosting solutions brought to gamers, developers, companys and everyone!
 
-[Centry Hosting](https://github.com/ProCloudLtd) [Discord](https://discord.gg/JkdFes8ev8)
+[Centry Hosting](https://github.com/ProCloudLtd) / [Discord](https://discord.gg/JkdFes8ev8)
 
 Check Out my projects and solutions!
 
